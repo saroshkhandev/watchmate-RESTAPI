@@ -1,4 +1,4 @@
-# This is the Backend Project of IMDB Clone
+# This is the RESTful API of Watchmate - movie rating platform
 ## It works on Django Rest Framework.
 
 ### Dependencies required.
